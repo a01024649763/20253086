@@ -1,4 +1,4 @@
-# 20253086
+# 20253086 이강민
 Study of Linux commands: top, ps, jobs, kill
 🧑‍💻 Linux Process Commands Study
 
