@@ -3,7 +3,6 @@ Study of Linux commands: top, ps, jobs, kill
 🧑‍💻 Linux Process Commands Study
 
 리눅스 프로세스 관련 명령어 top · ps · jobs · kill 정리 문서입니다.
-다양한 Markdown 기능을 사용하였습니다.
 
 ## 목차
 
